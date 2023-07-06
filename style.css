@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0%;
+}
+.manu-container{
+    background-color: rgb(66, 64, 64);
+    color: white;
+    list-style:none;
+}
+.logo-photo{
+    width:120px ;
+}
