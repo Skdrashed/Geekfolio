@@ -2,10 +2,24 @@
     margin: 0px;
     padding: 0%;
 }
+.item{
+    margin: right 10px;
+padding: 10px;
+    
+}
+
+
 .manu-container{
     background-color: rgb(66, 64, 64);
     color: white;
     list-style:none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.manu{
+    display: flex; 
+    
 }
 .logo-photo{
     width:120px ;
